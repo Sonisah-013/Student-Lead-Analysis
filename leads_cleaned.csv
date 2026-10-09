@@ -1,0 +1,112 @@
+ID,Name,Phone,Alt_Phone,Location,Ward,Interest,Source_File,Remarks,Phone_Valid,Int_AI_Tools,Int_All_Courses,Int_Career_Counseling,Int_Content_Creation,Int_Cyber_Security,Int_Digital_Marketing,Int_Graphic_Design,Int_Mobile_App_Development,Int_Online_Freelancing,Int_SEO,Int_Sales_and_Marketing,Int_Video_Editing,Int_Web_Development,Num_Interests,Has_Interest,Location_Group,Is_Itahari,Source_Code
+1,Krishna Karki,9851184642,,Haraicha,0,Content Creation,Mela_Lead,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Haraicha,0,0
+2,Sarjak Gautam,9840513335,,Itahari,0,"Digital Marketing, Video Editing",Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,1,0,2,1,Itahari,1,0
+3,Happy Dev,9825382722,,Biratnagar,0,AI Tools,Mela_Lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Biratnagar,0,0
+4,Pema Ale Magar,9862355382,,Sundar Haraicha,0,"Digital Marketing, Career Counseling",Mela_Lead,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,Sundar Haraicha,0,0
+5,Nirmal Kc,9842156250,,Basantapur,0,Other,Mela_Lead,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Basantapur,0,0
+6,Harka Karki,9820757483,,Itahari,1,"Digital Marketing, AI Tools",Mela_Lead,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,Itahari,1,0
+7,Rakshya Mochi,9716852759,,Itahari,0,Content Creation,Mela_Lead,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,0
+8,Narayani Khatri,9709175034,,Itahari,0,AI Tools,Mela_Lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,0
+9,Aayush Pokheral,9762359135,,Biratnagar,0,SEO,Mela_Lead,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Biratnagar,0,0
+10,Pradeep Dahal,9862292839,,Itahari,0,"Digital Marketing, SEO",Mela_Lead,,1,0,0,0,0,0,1,0,0,0,1,0,0,0,2,1,Itahari,1,0
+11,Samjhana Khadka,9860731372,,Ramdhuni,0,Graphic Design,Mela_Lead,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Ramdhuni,0,0
+12,Michel Berma,9844015951,,Janakpur,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Janakpur,0,0
+13,Susma Yonhang,9707415997,,Itahari,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+14,Pawan Ghimire,9842729208,,Haraicha,0,Digital Marketing,Mela_Lead,Same phone appears twice (possible duplicate lead),1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Haraicha,0,0
+16,Govinda,9852022033,,Biratnagar,0,AI Tools,Mela_Lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Biratnagar,0,0
+17,Aanuj Subadi,9815386387,,Budiganga,0,Mobile App Development,Mela_Lead,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,Budiganga,0,0
+18,Suraj Hang Rai,9744372119,,Tarara,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Tarara,0,0
+19,Mare Lama,9815389000,,Itahari,0,Content Creation,Mela_Lead,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,0
+20,Prabhjab Katwal,9824322210,,Itahari,0,AI Tools,Mela_Lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,0
+21,Rohit Aacharya,9822776718,,Dharan,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Dharan,0,0
+22,Rohit Kumar Mehta,9808968055,,Devanjung,0,"Video Editing, Online Freelancing",Mela_Lead,,1,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,Devanjung,0,0
+23,Ashish Saha,9804093119,,Khanar,0,"AI Tools, Graphic Design, Video Editing",Mela_Lead,,1,1,0,0,0,0,0,1,0,0,0,0,1,0,3,1,Khanar,0,0
+24,Ujwal Kafle,9825323236,,Itahari,4,Graphic Design,Mela_Lead,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Itahari,1,0
+25,Anamika Majhi,9806142036,,Duhabi,2,"Digital Marketing, Cyber Security",Mela_Lead,,1,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,Duhabi,0,0
+26,Samikshya Chaudhary,9805542061,,Duhabi,2,"Digital Marketing, Cyber Security",Mela_Lead,,1,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,Duhabi,0,0
+27,Ajay Sardar,9810520978,,Itahari,14,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+28,Bijay Kumar Mehta,9703745074,,Devanjung,2,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Devanjung,0,0
+29,Somraj Gashyadar,9811387594,,Biratnagar,8,Not Specified,Mela_Lead,Interest missing in source,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Biratnagar,0,0
+30,Kritika Bajgai,9844419935,,Biratnagar,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,0
+31,Ashna Pokhrel,9847202001,,Biratnagar,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,0
+32,Rita Dhakal,9812392315,,Itahari,8,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+33,Hasib Ansari,9823303517,,Itahari,0,Digital Marketing,Mela_Lead,Same phone appears twice (possible duplicate lead),1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+34,Pramila Koirala,9867994070,,Itahari,0,Video Editing,Mela_Lead,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Itahari,1,0
+36,Samin Ansari,9815333803,,Biratnagar,0,Other,Mela_Lead,Source note: MT Fashion Point client,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Biratnagar,0,0
+37,Sanjay Shah,9852039990,,Biratnagar,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,0
+38,Sushil Katwal,9801221738,,Itahari,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+39,Bigyan Kumar Bhattrai,9842462109,,Itahari,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+40,Ujwal Chy,9714478656,,Biratnagar,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,0
+41,Uma Achrya,9842437772,,Itahari,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+42,Rebika Baral,9842061857,,Itahari,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+43,Sukra Baraili,9806045382,,Itahari,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+44,Nabin Owja,9817337498,,Biratnagar,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,0
+45,Yubraj Mahato,9808530086,,Biratnagar,0,"AI Tools, Cyber Security",Mela_Lead,,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,1,Biratnagar,0,0
+46,Homenath Shrestha,9842785525,,Duhabi,0,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Duhabi,0,0
+47,Manish Deo,9841264909,,Biratnagar,0,"Digital Marketing, All Courses",Mela_Lead,,1,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1,Biratnagar,0,0
+48,Anju Dhamala,9807001680,,Itahari,2,Digital Marketing,Mela_Lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,0
+49,Deva Chaudhary,9707878680,,Saptari,0,"Digital Marketing, Content Creation",Mela_Lead,,1,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,Saptari,0,0
+50,Swaditee Sapkota,9801474460,,Itahari,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+51,Rita Tamang,9706022819,,Itahari,0,Graphic Design,mala_lead,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Itahari,1,1
+52,Shistata Dhital,9762379894,,Itahari,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+53,Manisha Khatiwada,9815319226,,Itahari,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+54,Prasana Timsina,9800900414,,Itahari,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+55,Sayash Pokharel,9847210853,,Itahari,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+56,Sabina Rai,9746958618,,Itahari,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+57,Miramaya Bk,9749248285,,Itahari,0,Content Creation,mala_lead,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,1
+58,Nikita Katwal,9811368121,,Itahari,0,Content Creation,mala_lead,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,1
+59,Anish Karki,9811355710,,Itahari,0,Video Editing,mala_lead,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Itahari,1,1
+60,Laxman Kumar Sharma,9825362276,,Rangeli,0,"Web Development, Mobile App Development, SEO",mala_lead,,1,0,0,0,0,0,0,0,1,0,1,0,0,1,3,1,Rangeli,0,1
+61,Mahesh Mandal,9807376454,,Rangeli,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Rangeli,0,1
+62,Tika Bhandari,9840037461,,Biratnagar,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,1
+63,Rogina Shrestha,9824332489,,Biratnagar,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,1
+64,Kapil Raj Ojha,9842496067,,Itahari,0,Mobile App Development,mala_lead,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,Itahari,1,1
+65,Pralad Mandal,9807052186,,Biratnagar,0,Sales & Marketing,mala_lead,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Biratnagar,0,1
+66,Mandip Karki,9812381256,,Itahari,10,Cyber Security,mala_lead,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,Itahari,1,1
+67,Rabi Mandal,9823174081,,Sundar Haraicha,11,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Sundar Haraicha,0,1
+68,Dizon Chulagain,9841086677,,Itahari (Baliya),0,AI Tools,mala_lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Itahari (Baliya),1,1
+69,Uddav Bhandari,9842236216,,Belbari,3,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Belbari,0,1
+70,Sohan Sah,9819979788,,Itahari,17,Web Development,mala_lead,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Itahari,1,1
+71,Prabhu Narayan Chaudhary,9863759855,,Itahari,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+72,Sujit Kumar Lekhy,9817715834,,Biratnagar,0,"Digital Marketing, Graphic Design",mala_lead,,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,Biratnagar,0,1
+73,Samikshya Tamang,9862650343,,Itahari,18,"Graphic Design, Video Editing, Web Development, Mobile App Development",mala_lead,,1,0,0,0,0,0,0,1,1,0,0,0,1,1,4,1,Itahari,1,1
+74,Strela Rayamajhi,9709131331,,Itahari,0,"Graphic Design, Video Editing, Web Development, Mobile App Development",mala_lead,,1,0,0,0,0,0,0,1,1,0,0,0,1,1,4,1,Itahari,1,1
+75,Barsha Bhujel,9825306319,,Itahari,0,"Graphic Design, Video Editing, Web Development, Mobile App Development",mala_lead,,1,0,0,0,0,0,0,1,1,0,0,0,1,1,4,1,Itahari,1,1
+76,Namrata Rai,9817717409,,Itahari,17,"Digital Marketing, AI Tools, Web Development, Online Freelancing",mala_lead,"Same name, different phone",1,1,0,0,0,0,1,0,0,1,0,0,0,1,4,1,Itahari,1,1
+77,Aashisha Kumar Shah,9814380708,,Biratnagar,1,Web Development,mala_lead,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Biratnagar,0,1
+78,Ranjan Adhikari,9762949614,,Biratnagar,10,"Graphic Design, Video Editing, Cyber Security",mala_lead,,1,0,0,0,0,1,0,1,0,0,0,0,1,0,3,1,Biratnagar,0,1
+79,Prashant Guraigai,9819391622,,Itahari,4,Graphic Design,mala_lead,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Itahari,1,1
+80,Bashudev Kumar Sah,9805345261,,Jhadha,2,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Jhadha,0,1
+81,Namrata Rai,9863383646,,Dharan,0,"AI Tools, Online Freelancing",mala_lead,"Same name, different phone",1,1,0,0,0,0,0,0,0,1,0,0,0,0,2,1,Dharan,0,1
+82,Devraj Samling,9841046753,,Itahari,10,Cyber Security,mala_lead,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,Itahari,1,1
+83,Ram Shrestha,9709741752,,Itahari,2,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,1
+84,Suban Kumari Mehta,9827084485,,Inaruwa,0,Digital Marketing,mala_lead,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Inaruwa,0,1
+85,Rukmira Pishankhay,9824788401,,Biratnagar,0,Online Freelancing,mala_lead,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,Biratnagar,0,1
+86,Manishtamang,9829354757,,Itahari,0,"AI Tools, Web Development",mala_lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,Itahari,1,1
+87,Bibek Aryal,9862362477,,Itahari,4,"AI Tools, Web Development",mala_lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,Itahari,1,1
+88,Nikil Dhakal,9704869253,,Itahari,6,"AI Tools, Mobile App Development",mala_lead,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,2,1,Itahari,1,1
+89,Samir Poudel,9806359996,,Itahari,4,"AI Tools, Video Editing",mala_lead,,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,Itahari,1,1
+90,Rubaika Gurung,9709130607,,Itahari,0,Not Specified,mala_lead,Interest missing in source,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Itahari,1,1
+91,Bikash Yadav,9765470581,9824704442,Koshi Gapa,8,"Graphic Design, Video Editing",mala_lead,Two numbers given,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,Koshi Gapa,0,1
+92,Prakash Yadav,9703428695,,Saptari,0,Web Development,mala_lead,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Saptari,0,1
+93,Prity Rajbanshi,9709169459,,Biratnagar,0,AI Tools,mala_lead,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Biratnagar,0,1
+94,Prabin Kuwar,9817706050,,Udayapur,0,Not Specified,mala_lead,Interest missing in source,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Udayapur,0,1
+95,Rahul Pawanyar,9819035372,,Biratnagar,0,Video Editing,mala_lead,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Biratnagar,0,1
+96,Manbhahadur Karki,9816310888,,Itahari,8,Graphic Design,mela_leads,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Itahari,1,2
+97,Pankaj Mandal,9814303499,,Sundar Haraicha,1,Digital Marketing,mela_leads,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Sundar Haraicha,0,2
+98,Ajay Kuamar Chaudhary,9862635786,,Duhabi,7,Not Specified,mela_leads,Interest missing in source,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Duhabi,0,2
+99,Sidhart Shrestha,9842161100,,Biratnagar,10,Digital Marketing,mela_leads,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,2
+100,Nitesh Dullal,9767178154,,Sundar Haraicha,2,Digital Marketing,mela_leads,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Sundar Haraicha,0,2
+101,Sabin Chaudhary,9700732445,,Biratnagar,9,Digital Marketing,mela_leads,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Biratnagar,0,2
+102,Indrajit Pal,9804788053,,Rajbiraj,0,Web Development,mela_leads,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Rajbiraj,0,2
+103,Bishal Gupta,9800916466,,Sunsari,0,Web Development,mela_leads,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Sunsari,0,2
+104,Sunjan Siwa,9708065292,,Itahari,7,"AI Tools, Mobile App Development, Cyber Security",mela_leads,,1,1,0,0,0,1,0,0,1,0,0,0,0,0,3,1,Itahari,1,2
+105,Sneha Limbu,9825312852,,Itahari,4,Content Creation,mela_leads,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,2
+106,Bina Limbu,9810400035,,Itahari,4,Content Creation,mela_leads,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,2
+107,Rahul Baitha,9842951735,,Dharan,7,AI Tools,mela_leads,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Dharan,0,2
+108,Bibek Kumar Mandal,9749232672,,Rangeli,5,Digital Marketing,mela_leads,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Rangeli,0,2
+109,Sangita Rai,9713986779,,Itahari,2,Digital Marketing,mela_leads,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Itahari,1,2
+110,Tulsi Kumar Chaudhary,9814798146,,Dharan,8,Web Development,mela_leads,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Dharan,0,2
+111,Sonu Kumar Shah,9820364965,,Biratnagar,18,"AI Tools, Web Development, Mobile App Development",mela_leads,,1,1,0,0,0,0,0,0,1,0,0,0,0,1,3,1,Biratnagar,0,2
+112,Romana Bhandari,9704866855,,Dharan,0,AI Tools,mela_leads,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Dharan,0,2
+113,Gyan Bhadhur Basnet,9804058975,,Itahari,0,Content Creation,mela_leads,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Itahari,1,2
